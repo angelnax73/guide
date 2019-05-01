@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node2">
+  <panorama id="node1">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/1인실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="Pictures|새 폴더 (4)" datetime="2018:04:03 10:50:37" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node2}" pan="-77.85" id="Point01" tilt="-0.49" target="-49.8/-4.01885/75" title="1층 접수대 홀"/>
+      <hotspot skinid="ht_node" description="" url="{node38}" pan="-87.52" id="Point02" tilt="-0.62" target="116.279/-1.79667/75" title="화장실"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/1층 대형 방풍실문 내부/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-10">
+      <start fov="75" pan="-3.98" tilt="-4.01"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 15:24:07" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_url" description="" url="" pan="58.61" id="Point01" tilt="4.48" target="" title="1층 남자화장실"/>
+      <hotspot skinid="ht_url" description="" url="" pan="72.53" id="Point02" tilt="3.99" target="" title="1층 여자 화장실"/>
+      <hotspot skinid="ht_node" description="" url="{node35}" pan="92.35" id="Point03" tilt="9.29" target="-88.028/-1.84808/75" title="6층 입원실 간호데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node34}" pan="92.24" id="Point04" tilt="5.78" target="-72.0234/0.471936/75" title="5층 입원실 간호데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node33}" pan="92.25" id="Point05" tilt="1.99" target="82.9906/0.0267044/75" title="4층 간호데스크실"/>
+      <hotspot skinid="ht_node" description="" url="{node30}" pan="92.2" id="Point06" tilt="-0.91" target="121.573/-1.94801/75" title="3층 도수치료실,뜸,전기침,휴게실,"/>
+      <hotspot skinid="ht_node" description="" url="{node9}" pan="127.46" id="Point07" tilt="1.45" target="92.6385/-0.284734/75" title="1층 소형 엘리베이터 및 계단"/>
+      <hotspot skinid="ht_node" description="" url="{node7}" pan="-159.14" id="Point08" tilt="3.53" target="-176.223/0.793858/75" title="1층 현관 방풍실"/>
+      <hotspot skinid="ht_url" description="" url="" pan="-69.97" id="Point09" tilt="-0.75" target="" title="진료 접수 수납"/>
+      <hotspot skinid="ht_node" description="" url="{node8}" pan="-47.38" id="Point10" tilt="-0.53" target="-24.7923/0.890184/75" title="환자 상담실"/>
+      <hotspot skinid="ht_node" description="" url="{node14}" pan="3.69" id="Point11" tilt="-8.43" target="-0.711341/-4.19732/75" title="1층 진료실 복도 입구"/>
+      <hotspot skinid="ht_node" description="" url="{node3}" pan="95.44" id="Point12" tilt="-26.48" target="1.16003/3.93562/75" title="1층 대형 승강기 앞"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/1층 대형 승강기 앞/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 15:42:42" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node35}" pan="1.1" id="Point01" tilt="17.07" target="-76.6513/-1.28218/75" title="6층 간호 데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node34}" pan="1.19" id="Point02" tilt="12.68" target="-59.259/1.1403/75" title="5층 간호 데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node33}" pan="1.1" id="Point03" tilt="7.68" target="90/0/75" title="4층 간호 데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node30}" pan="1.29" id="Point04" tilt="2.63" target="116.32/-1.66687/75" title="3층 치료실 접수대 홀"/>
+      <hotspot skinid="ht_url" description="" url="" pan="-40.34" id="Point05" tilt="5.83" target="" title="1층 여자 화장실"/>
+      <hotspot skinid="ht_url" description="" url="" pan="-72.67" id="Point06" tilt="6.59" target="" title="1층 남자 화장실"/>
+      <hotspot skinid="ht_url" description="" url="" pan="-166.55" id="Point07" tilt="-0.33" target="" title="접수 수납 상담"/>
+      <hotspot skinid="ht_node" description="" url="{node7}" pan="152.3" id="Point08" tilt="2.01" target="-177.281/0.458491/75" title="1층 현관 방풍실"/>
+      <hotspot skinid="ht_node" description="" url="{node9}" pan="91.57" id="Point09" tilt="5.73" target="90/0/75" title="1층 소형 엘리베이터 홀"/>
+      <hotspot skinid="ht_node" description="" url="{node2}" pan="-178.88" id="Point10" tilt="-20.32" target="-92.9781/-3.5987/75" title="1층 방풍실 앞 내부"/>
+      <hotspot skinid="ht_node" description="" url="{node8}" pan="-145.07" id="Point11" tilt="1.52" target="-31.6875/0.0576672/75" title="상담실"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/1층 방사선 조정실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 15:35:02" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node41}" pan="73.54" id="Point01" tilt="-3" target="111.295/-1.95391/75" title="1층 방사선실 통로"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/1층 방사선실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 15:32:11" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node41}" pan="-0.65" id="Point01" tilt="0.15" target="-148.831/-1.36956/75" title="1층 방사선실 통로"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/1층 방풍실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="34.796072" longitude="126.386801" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 15:22:01" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node40}" pan="-175.13" id="Point01" tilt="0.28" target="-87.557/1.53541/75" title="목포청연한방병원 정문 도로"/>
+      <hotspot skinid="ht_node" description="" url="{node2}" pan="360" id="" tilt="0" target="-10/0/70" title="1층 방풍실 앞 홀 내부"/>
+      <hotspot skinid="ht_node" description="" url="{node9}" pan="41.93" id="Point02" tilt="1.58" target="94.0178/-0.345659/75" title="1층 소형 엘리베이터, 계단"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/1층 상담실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 15:25:37" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node14}" pan="133.81" id="Point01" tilt="0.74" target="-129.72/-5.58236/75" title="1층 진료실 복도 입구"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/1층 소형 승강기 앞/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 15:43:08" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node3}" pan="-67.55" id="Point01" tilt="3.11" target="-143.861/1.56642/75" title="1층 대형 승강기 앞"/>
+      <hotspot skinid="ht_node" description="" url="{node7}" pan="-140.76" id="Point02" tilt="-0.61" target="-90.0479/-0.368815/75" title="1층 현관 방풍실"/>
+      <hotspot skinid="ht_node" description="" url="{node35}" pan="94.18" id="Point03" tilt="16.33" target="-83.2545/0.732038/75" title="6층 간호 데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node34}" pan="94.27" id="Point04" tilt="12.07" target="-66.74/-4.22305/75" title="5층 간호 데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node33}" pan="94.37" id="Point05" tilt="7.29" target="89.3487/-6.99747/75" title="4층 간호 데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node30}" pan="94.27" id="Point06" tilt="2.88" target="113.239/-0.453613/75" title="3층 도수치료실,뜸,전기침,휴게실"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/1층 양방 1과 진료실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 15:39:24" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node13}" pan="147.26" id="Point01" tilt="-0.13" target="-99.9472/0.897417/75" title="1층 외래 치료실 복도 입구"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/1층 외래 치료 간호 데스크/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 15:28:02" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node12}" pan="177.49" id="Point01" tilt="-13.11" target="174.272/-2.06094/75" title="1층 외래 치료실 내부"/>
+      <hotspot skinid="ht_node" description="" url="{node13}" pan="-0.51" id="Point02" tilt="-22.35" target="82.294/5.05074/75" title="1층 외래 치료실 앞 복도"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/1층 외래 치료실 내부/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 15:30:21" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node11}" pan="-6.74" id="Point01" tilt="-11.79" target="-4.32815/2.70779/75" title="1층 외래 치료실 간호 데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node13}" pan="-6.94" id="Point02" tilt="-7.68" target="84.56/7.60583/75" title="1층 외래 치료실 앞 복도"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/1층 외래 치료실 앞 복도/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 15:26:46" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node4}" pan="-4.04" id="Point02" tilt="1.34" target="-90.3255/-10.3917/75" title="방사선 조정실"/>
+      <hotspot skinid="ht_node" description="" url="{node6}" pan="3.16" id="Point03" tilt="1.9" target="126.83/-5.7233/75" title="1층 방사선 실"/>
+      <hotspot skinid="ht_node" description="" url="{node17}" pan="27.8" id="Point04" tilt="1.74" target="18.036/-1.28652/75" title="한방 3과 진료실"/>
+      <hotspot skinid="ht_node" description="" url="{node16}" pan="146.18" id="Point05" tilt="3.48" target="-158.828/-7.90368/75" title="한방 2과 진료실"/>
+      <hotspot skinid="ht_node" description="" url="{node10}" pan="161.98" id="Point06" tilt="3.07" target="31.3489/1.52628/75" title="양방 1과 진료실"/>
+      <hotspot skinid="ht_node" description="" url="{node15}" pan="164.65" id="Point07" tilt="2.81" target="-25.1401/-12.9793/75" title="한방 1과 진료실"/>
+      <hotspot skinid="ht_node" description="" url="{node7}" pan="-178.32" id="Point08" tilt="1.15" target="-177.668/-1.85315/75" title="1층 현관 방풍실"/>
+      <hotspot skinid="ht_node" description="" url="{node14}" pan="175.23" id="Point09" tilt="-15.35" target="-145.208/-5.41992/75" title="1층 외래 진료실 복도 입구"/>
+      <hotspot skinid="ht_node" description="" url="{node2}" pan="179.74" id="Point10" tilt="-4.74" target="176.483/0.980142/75" title="1층 방풍실 앞"/>
+      <hotspot skinid="ht_node" description="" url="{node11}" pan="-95.92" id="Point11" tilt="-22.49" target="179.043/-4.27954/75" title="1층 외래 치료실 간호 데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node12}" pan="-96.47" id="Point12" tilt="-8.16" target="175.557/-0.652204/75" title="1층 외래 치료실 내부"/>
+      <hotspot skinid="ht_node" description="" url="{node41}" pan="-3.95" id="Point01" tilt="-12.83" target="-140.725/-1.8697/75" title="1층 방사선실, 탈의실 복도"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/1층 진료실 복도 입구/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 15:24:57" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node7}" pan="-167.44" id="Point01" tilt="1.29" target="1.40523/-0.0255826/75" title="1층 현관 방풍실"/>
+      <hotspot skinid="ht_url" description="" url="" pan="-133.84" id="Point02" tilt="-0.01" target="" title="접수 수납 상담"/>
+      <hotspot skinid="ht_node" description="" url="{node2}" pan="-172.52" id="Point03" tilt="-8.59" target="173.512/1.79652/75" title="1층 방풍실 앞"/>
+      <hotspot skinid="ht_node" description="" url="{node8}" pan="-113.66" id="Point04" tilt="0.77" target="-23.0415/-3.85239/75" title="상담실"/>
+      <hotspot skinid="ht_node" description="" url="{node13}" pan="7.52" id="Point05" tilt="-10.38" target="-4.4968/-5.28481/75" title="1층 외래 진치료실 앞 복도"/>
+      <hotspot skinid="ht_node" description="" url="{node4}" pan="6.9" id="Point07" tilt="0.92" target="-92.65/-6.67942/75" title="방사선 조종실"/>
+      <hotspot skinid="ht_node" description="" url="{node6}" pan="10.42" id="Point08" tilt="0.48" target="119.593/-2.61231/75" title="1층 방사선실"/>
+      <hotspot skinid="ht_node" description="" url="{node17}" pan="14.06" id="Point09" tilt="0.49" target="19.1556/-1.1707/75" title="한방 3과"/>
+      <hotspot skinid="ht_node" description="" url="{node17}" pan="23.28" id="Point10" tilt="0.47" target="26.7387/-2.55652/75" title="한방 2과 진료실"/>
+      <hotspot skinid="ht_node" description="" url="{node10}" pan="59.06" id="Point11" tilt="-0.88" target="23.9019/1.92376/75" title="양방 1과 진료실"/>
+      <hotspot skinid="ht_node" description="" url="{node15}" pan="98.94" id="Point12" tilt="1.11" target="-24.4353/0.278399/75" title="한방 1과 진료실"/>
+      <hotspot skinid="ht_node" description="" url="{node41}" pan="7.22" id="Point06" tilt="-5.78" target="-143.071/-1.71655/75" title="1층 방사선실 통로"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/1층 한방 1과 진료실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 15:41:37" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node14}" pan="-138.02" id="Point01" tilt="-0.76" target="-128.482/0.322457/75" title=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/1층 한방 2과 진료실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 15:37:51" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node13}" pan="-30.57" id="Point01" tilt="0.43" target="-95.8854/-3.15087/75" title="1층 진료실 복도 입구"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/1층 한방 3과 진료실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 15:36:13" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node13}" pan="152.18" id="Point01" tilt="-1.92" target="-92.2744/-3.42864/75" title="1층 외래 치료실 앞 복도"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/2인실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 17:01:09" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node2}" pan="-88.86" id="Point01" tilt="-1.15" target="-48.7689/-7.12033/75" title="1층 접수대 홀"/>
+      <hotspot skinid="ht_node" description="" url="{node38}" pan="-105.82" id="Point02" tilt="-0.22" target="125.725/0.47154/75" title="화장실"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/3인실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 16:59:14" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node2}" pan="-83.27" id="Point01" tilt="1.23" target="-47.5349/-1.19542/75" title="1층 접수대 홀"/>
+      <hotspot skinid="ht_node" description="" url="{node38}" pan="-30.2" id="Point02" tilt="-1.63" target="118.539/0.394268/89.619" title="화장실"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/3층 cpm/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 16:29:18" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node25}" pan="0.93" id="Point01" tilt="-15.06" target="37.0037/0.416081/75" title="3층 도수치료 복도 복합 홀"/>
+      <hotspot skinid="ht_node" description="" url="{node21}" pan="0.21" id="Point02" tilt="0.81" target="-113.253/-22.236/75" title="3층 감압치료실"/>
+      <hotspot skinid="ht_node" description="" url="{node24}" pan="24.2" id="Point03" tilt="6.22" target="46.9646/4.98417/75" title="3층 도수치료 4실"/>
+      <hotspot skinid="ht_node" description="" url="{node23}" pan="73.49" id="Point04" tilt="12.74" target="34.4912/1.44308/75" title="3층 도수치료 3실"/>
+      <hotspot skinid="ht_node" description="" url="{node22}" pan="155.28" id="Point05" tilt="1.84" target="90/0/75" title="3층 도수치료 2실"/>
+      <hotspot skinid="ht_node" description="" url="{node30}" pan="178.6" id="Point06" tilt="-3.12" target="-6.02494/-1.71786/75" title="3층 진료실 접수대 홀"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/3층 감압치료실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 16:24:38" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node25}" pan="7.98" id="Point01" tilt="-1.52" target="-2.61767/-1.71449/75" title="3층 도수치료 복도 복합 홀"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/3층 도수치료 2실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 16:34:41" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node26}" pan="-93.37" id="Point01" tilt="1.16" target="-88.3514/-2.55043/75" title="3층 도수치료실 복도 중간"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/3층 도수치료 3실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 16:37:07" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node20}" pan="178.91" id="Point01" tilt="0.24" target="-87.6468/-3.66459/75" title="3층 도수치료실 복도(CPM)"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/3층 도수치료 4실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 16:39:25" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node25}" pan="-163.92" id="Point01" tilt="-0.26" target="71.3809/-7.20461/75" title="3층 도수치료실 복합 홀"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/3층 도수치료실 복도 끝/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 16:25:25" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_url" description="" url="" pan="73.17" id="Point01" tilt="0.39" target="" title=""/>
+      <hotspot skinid="ht_node" description="" url="{node21}" pan="179.17" id="Point02" tilt="0.06" target="-121.276/-15.6474/75" title="3층 감압치료실"/>
+      <hotspot skinid="ht_node" description="" url="{node27}" pan="-104.43" id="Point03" tilt="3.54" target="-168.095/-25.5813/75" title="3층 복합치료실"/>
+      <hotspot skinid="ht_node" description="" url="{node24}" pan="-64.97" id="Point04" tilt="3.23" target="29.1572/-1.57124/75" title="3층 도수치료 4실"/>
+      <hotspot skinid="ht_node" description="" url="{node23}" pan="-20.84" id="Point05" tilt="-0.03" target="21.9916/0.496829/75" title="3층 도수치료 3실"/>
+      <hotspot skinid="ht_node" description="" url="{node30}" pan="0.83" id="Point06" tilt="-2.18" target="-9.95041/-0.283858/75" title="3층 치료실 접수대 홀"/>
+      <hotspot skinid="ht_node" description="" url="{node26}" pan="0.63" id="Point07" tilt="-7.66" target="-174.118/-4.05728/75" title="3층 도수치료실 복도 중간"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/3층 도수치료실 복도 중간/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 16:28:16" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node30}" pan="-176.66" id="Point01" tilt="-6.83" target="-7.79648/-0.286085/75" title="3층 치료실 접수대 홀"/>
+      <hotspot skinid="ht_node" description="" url="{node36}" pan="107.13" id="Point02" tilt="2.27" target="-116.27/-8.16142/75" title="3층 도수치료 1실"/>
+      <hotspot skinid="ht_node" description="" url="{node22}" pan="67.03" id="Point03" tilt="2.64" target="73.926/-8.85183/75" title="3층 도수치료 2실"/>
+      <hotspot skinid="ht_node" description="" url="{node23}" pan="18.64" id="Point04" tilt="1.86" target="27.0066/-0.541473/75" title="3층 도수치료 3실"/>
+      <hotspot skinid="ht_node" description="" url="{node24}" pan="13.65" id="Point05" tilt="1.21" target="39.1939/5.78853/75" title="3층 도수치료 4실"/>
+      <hotspot skinid="ht_node" description="" url="{node21}" pan="3.33" id="Point06" tilt="0.58" target="-98.2947/-16.6785/91.2272" title="3층 감압치료실"/>
+      <hotspot skinid="ht_node" description="" url="{node25}" pan="3.42" id="Point07" tilt="-6.42" target="-178.77/-0.134737/75" title="3층 복합치료실 홀"/>
+      <hotspot skinid="ht_node" description="" url="{node20}" pan="3.63" id="Point08" tilt="-11.46" target="-97.4556/-7.57271/75" title="3층 CPM 기계"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/3층 복합치료실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 16:26:45" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node25}" pan="11.69" id="Point01" tilt="0.19" target="47.5731/-0.0635127/75" title="3층 도수치료실 복도 복합 홀"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/3층 입원환자 치료실 복도 끝/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 16:21:33" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node29}" pan="12.99" id="Point01" tilt="-8.56" target="" title="3층 입원환자 치료실 복도 중간"/>
+      <hotspot skinid="ht_node" description="" url="{node31}" pan="12.87" id="Point02" tilt="-3.43" target="-89.0236/-3.068/75" title="3층 환자 휴게실"/>
+      <hotspot skinid="ht_node" description="" url="{node25}" pan="-76.41" id="Point03" tilt="0.93" target="-94.082/-0.592157/75" title="3층 복합 치료실 홀"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/3층 입원환자 치료실 복도 중간/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 16:20:43" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node28}" pan="-174.58" id="Point01" tilt="-10.15" target="-174.525/-3.76855/75" title="3층 입원환자 치료실 복도 끝"/>
+      <hotspot skinid="ht_node" description="" url="{node31}" pan="2.23" id="Point02" tilt="-3.91" target="-90.4462/-4.80845/75" title="3층 환자 휴게실"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/3층 치료실 접수대 홀/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 15:44:32" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node31}" pan="76.87" id="Point01" tilt="-11.49" target="-0.494017/-4.24577/75" title="3층 환자 휴게실"/>
+      <hotspot skinid="ht_node" description="" url="{node35}" pan="-122.94" id="Point02" tilt="7.46" target="-90.7006/1.07413/75" title="6층 간호 데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node34}" pan="-122.76" id="Point03" tilt="3.63" target="-68.614/-1.29292/75" title="5층 간호 데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node33}" pan="-122.78" id="Point04" tilt="-0.36" target="90/0/75" title="4층 간호 데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node3}" pan="-122.57" id="Point05" tilt="-4.47" target="-179.366/1.95266/75" title="1층 대형 승강기 앞"/>
+      <hotspot skinid="ht_url" description="" url="" pan="-86.84" id="Point06" tilt="2.56" target="" title="계단"/>
+      <hotspot skinid="ht_node" description="" url="{node35}" pan="-32.57" id="Point07" tilt="10.39" target="-99.6796/1.52979/75" title="6층 간호 데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node35}" pan="-32.83" id="Point08" tilt="5.96" target="-101.13/-1.00939/75" title="5층 간호 데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node35}" pan="-32.94" id="Point09" tilt="1.21" target="-100.338/-2.41557/75" title="4층 간호데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node9}" pan="-33.03" id="Point10" tilt="-3.42" target="-87.3694/1.34201/75" title="1층 소형 승강기 앞 홀"/>
+      <hotspot skinid="ht_url" description="" url="" pan="-137.94" id="Point11" tilt="-0.75" target="" title="화장실"/>
+      <hotspot skinid="ht_node" description="" url="{node25}" pan="176.04" id="Point12" tilt="-3.19" target="174.446/0.424632/75" title="3층 도수치료실, 각종 치료실 홀"/>
+      <hotspot skinid="ht_node" description="" url="{node20}" pan="171.27" id="Point13" tilt="-3.05" target="-90.5866/-2.92864/75" title="3층 CPM 기계"/>
+      <hotspot skinid="ht_node" description="" url="{node26}" pan="175.78" id="Point14" tilt="-8.21" target="3.85705/-3.27088/75" title="3층 도수치료실 복도 중간"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node31">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/3층 환자 휴게실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 16:18:11" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node30}" pan="-175.29" id="Point01" tilt="-9.42" target="-67.0271/-1.23755/75" title="3층 치료실 접수대 홀"/>
+      <hotspot skinid="ht_url" description="" url="" pan="-175.83" id="Point02" tilt="2.97" target="" title="계단"/>
+      <hotspot skinid="ht_node" description="" url="{node29}" pan="91.05" id="Point03" tilt="-7.38" target="-178.222/-2.58644/75" title="3층 입원환자 치료실 복도 중간"/>
+      <hotspot skinid="ht_node" description="" url="{node28}" pan="91.26" id="Point04" tilt="-2.78" target="-177.284/-6.57017/75" title="3층 입원환자 치료실 복도 끝"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node32">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/4인실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 17:06:16" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node2}" pan="-62.01" id="Point01" tilt="-1.63" target="-47.7853/-4.35274/75" title="1층 접수대 홀"/>
+      <hotspot skinid="ht_node" description="" url="{node38}" pan="-39.05" id="Point02" tilt="-2.71" target="119.775/-1.58737/75" title="화장실"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node33">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/4층 간호데스크실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-10">
+      <start fov="79.5" pan="99.18" tilt="-1.61"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 17:09:48" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node35}" pan="75.18" id="Point01" tilt="5.98" target="-88.9536/-2.37393/75" title="6층 간호 데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node34}" pan="75.28" id="Point02" tilt="2.02" target="-75.7535/-4.70942/75" title="5층 간호데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node30}" pan="75.28" id="Point03" tilt="-1.67" target="129.921/-6.04426/75" title="3층 입원환자 접수대 홀"/>
+      <hotspot skinid="ht_node" description="" url="{node2}" pan="75.16" id="Point04" tilt="-5.76" target="-51.921/-1.64164/75" title="1층 접수대 홀"/>
+      <hotspot skinid="ht_url" description="" url="" pan="96.23" id="Point06" tilt="2.27" target="" title="계단"/>
+      <hotspot skinid="ht_url" description="" url="" pan="123.05" id="Point07" tilt="7.08" target="" title="소형 엘리베이터"/>
+      <hotspot skinid="ht_node" description="" url="{node37}" pan="0.26" id="Point08" tilt="0.87" target="168.973/-4.23585/75" title="VIP 입원실"/>
+      <hotspot skinid="ht_node" description="" url="{node18}" pan="-2.53" id="Point09" tilt="1.02" target="173.219/-3.46355/75" title="2인 입원실"/>
+      <hotspot skinid="ht_node" description="" url="{node1}" pan="-9.12" id="Point10" tilt="0.79" target="-174.64/-1.83012/75" title="1인 입원실"/>
+      <hotspot skinid="ht_node" description="" url="{node32}" pan="-20.02" id="Point11" tilt="0.62" target="142.276/-1.91858/75" title="4인 입원실"/>
+      <hotspot skinid="ht_node" description="" url="{node19}" pan="-132.68" id="Point12" tilt="1.97" target="62.1081/-0.0759588/75" title="3인 입원실"/>
+      <hotspot skinid="ht_url" description="" url="" pan="-6.22" id="Point13" tilt="0.44" target="" title="비상계단"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node34">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/5층 간호데스크실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 17:02:48" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_url" description="" url="" pan="-44.15" id="Point01" tilt="7.59" target="" title="소형 엘리베이터"/>
+      <hotspot skinid="ht_url" description="" url="" pan="-69.48" id="Point02" tilt="4.45" target="" title="계단"/>
+      <hotspot skinid="ht_node" description="" url="{node35}" pan="-90.4" id="Point03" tilt="6.75" target="-84.9519/0.0308151/75" title="6층 간호 데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node33}" pan="-90.21" id="Point04" tilt="2.42" target="87.7776/0.0862474/79.5" title="5층 간호 데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node30}" pan="-90.02" id="Point05" tilt="-2.39" target="117.488/-2.64459/75" title="3층 치료실 접수대 홀"/>
+      <hotspot skinid="ht_node" description="" url="{node2}" pan="-90.13" id="Point06" tilt="-6.17" target="-54.8686/-2.33621/75" title="1층 접수대 홀"/>
+      <hotspot skinid="ht_node" description="" url="{node18}" pan="-164.5" id="Point07" tilt="0.37" target="175.196/2.5137/75" title="2인 입원실"/>
+      <hotspot skinid="ht_url" description="" url="" pan="-170.3" id="Point08" tilt="-0.24" target="" title="비상계단"/>
+      <hotspot skinid="ht_node" description="" url="{node1}" pan="-173.34" id="Point09" tilt="-0.18" target="-177.179/-0.503758/75" title="1인 입원실"/>
+      <hotspot skinid="ht_node" description="" url="{node32}" pan="178.63" id="Point10" tilt="0.99" target="128.481/-3.11964/75" title="4인 입원실"/>
+      <hotspot skinid="ht_node" description="" url="{node19}" pan="41.12" id="Point11" tilt="-0.58" target="69.9762/-0.577457/75" title="3인 입원실"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node35">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/6층 간호데스크 실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 16:57:05" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node19}" pan="46.52" id="Point01" tilt="-1.26" target="60.4322/-1.41363/75" title="3인 입원실"/>
+      <hotspot skinid="ht_url" description="" url="" pan="-76.39" id="Point02" tilt="2.47" target="" title="계단"/>
+      <hotspot skinid="ht_node" description="" url="{node35}" pan="-98.53" id="Point03" tilt="5.98" target="-99.5606/3.91908/75" title="5층 간호 데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node33}" pan="-98.7" id="Point04" tilt="2.56" target="83.5285/0.149474/79.5" title="4층 간호 데스크"/>
+      <hotspot skinid="ht_node" description="" url="{node30}" pan="-98.83" id="Point05" tilt="-1.42" target="115.77/-0.834047/75" title="3층 치료실 접수대 홀"/>
+      <hotspot skinid="ht_node" description="" url="{node2}" pan="-98.95" id="Point06" tilt="-5.86" target="-53.2354/-0.360913/75" title="1층 접수대 홀"/>
+      <hotspot skinid="ht_node" description="" url="{node18}" pan="-175.02" id="Point07" tilt="0.07" target="172.857/0.134834/75" title="2인 입원실"/>
+      <hotspot skinid="ht_url" description="" url="" pan="179.87" id="Point08" tilt="-0.01" target="" title="비상계단"/>
+      <hotspot skinid="ht_node" description="" url="{node1}" pan="175.57" id="Point09" tilt="-0.02" target="179.98/-2.82741/75" title="1인 입원실"/>
+      <hotspot skinid="ht_node" description="" url="{node32}" pan="166.15" id="Point10" tilt="-0.67" target="131.568/0.468527/75" title="4인 입원실"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node36">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/3층 도수치료 1실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:05:01 11:27:03" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node26}" pan="-56.04" id="Point01" tilt="0.48" target="-85.4948/-3.90994/75" title="3층 도수치료실 복도 중간"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node37">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/VIP 입원실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 17:12:04" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node38}" pan="103.21" id="Point01" tilt="1.8" target="120.056/-0.291412/75" title="화장실"/>
+      <hotspot skinid="ht_node" description="" url="{node2}" pan="88.43" id="Point02" tilt="1.56" target="-52.1346/-6.47808/75" title="1층 접수대 홀"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node38">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/입원실 화장실/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 17:12:57" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node32}" pan="29.07" id="Point01" tilt="24.18" target="117.948/-5.02919/75" title="4인 입원실"/>
+      <hotspot skinid="ht_node" description="" url="{node19}" pan="29.27" id="Point02" tilt="20.08" target="90/0/75" title="3인 입원실"/>
+      <hotspot skinid="ht_node" description="" url="{node18}" pan="29.38" id="Point03" tilt="15.13" target="169.84/-4.71352/75" title="2인 입원실"/>
+      <hotspot skinid="ht_node" description="" url="{node1}" pan="29.18" id="Point04" tilt="10.04" target="178.936/-1.82756/75" title="1인 입원실"/>
+      <hotspot skinid="ht_node" description="" url="{node37}" pan="29.38" id="Point05" tilt="4.47" target="165.562/-4.43799/75" title="VIP 입원실"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node39">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/청연한방병원 야외 주차장/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="34.796685" longitude="126.386553" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 17:19:58" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_url" description="" url="" pan="77.9" id="Point01" tilt="-6.2" target="" title="주차장 나가는 방향"/>
+      <hotspot skinid="ht_url" description="" url="" pan="103.38" id="Point02" tilt="-6.35" target="" title="주차장 들어오는 방향"/>
+      <hotspot skinid="ht_node" description="" url="{node40}" pan="87.66" id="Point03" tilt="-5.03" target="" title="목포청연한방병원 정문"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node40">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/청연한방병원 정문/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-10">
+      <start fov="75" pan="88.86" tilt="7.21"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:04:28 17:18:11" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node39}" pan="-177.59" id="Point01" tilt="-6.36" target="86.1699/-9.85222/75" title="청연한방병원 야외 주차장"/>
+      <hotspot skinid="ht_node" description="" url="{node7}" pan="92.79" id="Point02" tilt="10.69" target="0.696737/0.58505/75" title="병원 현관 방풍실"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node41">
+    <input levelingroll="0" levelbias="0.400" leveltileurl="tiles/1층 방사선실 통로/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1728" levelingpitch="0" overlap="1" leveltilesize="510" levelbiashidpi="0.400" height="1728">
+      <level preload="0" width="1728" predecode="0" height="1728"/>
+      <level preload="0" width="864" predecode="0" height="864"/>
+      <level preload="1" width="432" predecode="1" height="432"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="350">
+      <start fov="75" pan="90" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata latitude="" longitude="" description="" author="" source="" comment="" tags="새 폴더 (4)" datetime="2019:05:01 13:56:48" info="" title="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
+      <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" description="" url="{node6}" pan="7.58" id="Point01" tilt="0.93" target="126.046/1.77729/75" title="1층 방사선 촬영실"/>
+      <hotspot skinid="ht_node" description="" url="{node4}" pan="-56.78" id="Point02" tilt="0.55" target="-88.6879/-9.04041/75" title="방사선 조정실"/>
+      <hotspot skinid="ht_node" description="" url="{node13}" pan="125.64" id="Point03" tilt="-15.06" target="174.145/-0.947044/75" title="1층 외래 치료실 앞 복도"/>
+      <hotspot skinid="ht_node" description="" url="{node14}" pan="125.62" id="Point04" tilt="-6.65" target="-149.293/-2.26168/75" title="1층 외래 진료실 복도 입구"/>
+      <hotspot skinid="ht_url" description="" url="" pan="-130.44" id="Point05" tilt="1.24" target="" title="남자 탈의실"/>
+      <hotspot skinid="ht_url" description="" url="" pan="-125.19" id="Point06" tilt="1.01" target="" title="여자 탈의실"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
+    <control contextfullscreen="0" hideabout="0" speedwheel="1" lockedkeyboardzoom="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0"/>
+  </panorama>
+</tour>
