@@ -355,7 +355,7 @@
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
       <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot skinid="ht_node" description="" url="{node14}" pan="-138.02" id="Point01" tilt="-0.76" target="-128.482/0.322457/75" title=""/>
+      <hotspot skinid="ht_node" description="" url="{node14}" pan="-138.02" id="Point01" tilt="-0.76" target="-128.482/0.322457/75" title="1층 진료실 복도 입구"/>
     </hotspots>
     <media/>
     <transition softedge="0" zoomfov="20" type="crossdissolve" blendcolor="0x000000" enabled="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1"/>
@@ -582,7 +582,7 @@
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180" textcolor="0x000000" textalpha="1" background="1" height="20"/>
       <polystyle backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot skinid="ht_url" description="" url="" pan="73.17" id="Point01" tilt="0.39" target="" title=""/>
+      <hotspot skinid="ht_node" description="" url="{node28}" pan="73.17" id="Point01" tilt="0.39" target="105.373/0.997388/75" title="3층 입원환자 치료실 복도 "/>
       <hotspot skinid="ht_node" description="" url="{node21}" pan="179.17" id="Point02" tilt="0.06" target="-121.276/-15.6474/75" title="3층 감압치료실"/>
       <hotspot skinid="ht_node" description="" url="{node27}" pan="-104.43" id="Point03" tilt="3.54" target="-168.095/-25.5813/75" title="3층 복합치료실"/>
       <hotspot skinid="ht_node" description="" url="{node24}" pan="-64.97" id="Point04" tilt="3.23" target="29.1572/-1.57124/75" title="3층 도수치료 4실"/>
